@@ -1,8 +1,34 @@
 ## Basic HTML and HTML5 Challenges
 
+> HTML, or HyperText Markup Language, is a markup language used to describe the structure of a web page. It uses a special syntax or notation to organize and give information about the page to the browser. Elements usually have opening and closing tags that surround and give meaning to content. For example, there are different tag options to place around text to show whether it is a heading, a paragraph, or a list.
+
 - [Say Hello to HTML Elements](#say-hello-to-html-elements)
 - [Headline with the `h2` Element](#headling-with-the-h2-element)
-- `TODO: add links to all sections`
+- [Inform with the Paragraph Element](#inform-with-the-paragraph-element)
+- [Uncomment HTML](#uncomment-html)
+- [Comment HTML](#comment-html)
+- [Fill in the Blank with Placeholder Text](#fill-in-the-blank-with-placeholder-text)
+- [Delete HTML](#delete-html)
+- [Introduction to HTML5 Elements](#introduction-to-html5-elements)
+- [Change the Color of Text](#change-the-color-of-text)
+- [Link to External Pages with Anchor Elements](#link-to-external-pages-with-anchor-elements)
+- [Link to Internal Sections of a Page with Anchor Elements](#link-to-internal-sections-of-a-page-with-anchor-elements)
+- [Nest an Anchor Element within a Paragraph](#nest-an-anchor-element-within-a-paragraph)
+- [Make Dead Links using the Hash Symbol](#make-dead-links-using-the-hash-symbol)
+- [Turn an Image into a Link](#turn-an-image-into-a-link)
+- [Create a Bulleted Unordered List](#create-a-bulleted-unordered-list)
+- [Create an Ordered List](#create-an-ordered-list)
+- [Create a Text Field](#create-a-text-field)
+- [Add Placeholder Text to a Text Field](#add-placeholder-text-to-a-text-field)
+- [Create a Form Element](#create-a-form-element)
+- [Add a Submit Button to a Form](#add-a-submit-button-to-a-form)
+- [Use HTML5 to Require a Field](#use-html5-to-require-a-field)
+- [Create a Set of Radio Button](#create-a-set-of-radio-button)
+- [Create a Set of Checkboxes](#create-a-set-of-checkboxes)
+- [Check Radio Buttons and Checkboxes by Default](#check-radio-buttons-and-checkboxes-by-default)
+- [Nest Many Elements within a Single Div Element](#nest-many-elements-within-a-single-div-element)
+- [Set the ID of an Element](#set-the-id-of-an-element)
+- [Declare the Doctype of an HTML Document](#declare-the-doctype-of-an-html-document)
 - [Define the Head and Body of an HTML Document](#define-the-head-and-body-of-an-html-document)
 
 ----
