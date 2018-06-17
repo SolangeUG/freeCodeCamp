@@ -1,0 +1,5 @@
+# WebStorm project files
+*.iml
+.idea/
+.settings
+.project
