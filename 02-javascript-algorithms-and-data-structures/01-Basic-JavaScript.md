@@ -57,6 +57,22 @@ This section will cover basic JavaScript programming concepts, which range from 
 - [Understanding undefined value returned from a function](#understanding-undefined-value-returned-from-a-function)
 - [Assignment with a returned value](#assignment-with-a-returned-value)
 - [Stand in line](#stand-in-line)
+- [Understanding boolean values](#understanding-boolean-values)
+- [Use conditional logic with if statements](#use-conditional-logic-with-if-statements)
+- [Comparison with the equality operator](#comparison-with-the-equality-operator)
+- [Comparison with the strict equality operator](#comparison-with-the-strict-equality-operator)
+- [Practice comparing different values](#practice-comparing-different-values)
+- [Comparison with the inequality operator](#comparison-with-the-inequality-operator)
+- [Comparison with the strict inequality operator](#comparison-with-the-strict-inequality-operator)
+- [Comparison with the greater than operator](#comparison-with-the-greater-than-operator)
+- [Comparison with the greater than or equal to operator](#comparison-with-the-greater-than-or-equal-to-operator)
+- [Comparison with the less than operator](#comparison-with-the-less-than-operator)
+- [Comparison with the less than or equal to operator](#comparison-with-the-less-than-or-equal-to-operator)
+- [Comparison with the logical and operator](#comparison-with-the-logical-and-operator)
+- [Comparison with the logical-or operator](#comparison-with-the-logical-or-operator)
+- [Introducing else statements](#introducing-else-statements)
+- [Introducing else if statements](#introducing-else-if-statements)
+- [Logical order in if else statements](#logical-order-in-if-else-statements)
 
 ----
 
