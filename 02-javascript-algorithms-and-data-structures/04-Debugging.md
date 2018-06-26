@@ -6,7 +6,7 @@
 > 3) semantic (or logical) errors when code doesn't do what it's meant to.
 
 - [Use the JavaScript console to check the value of a variable](#use-the-javascript-console-to-check-the-value-of-a-variable)
-- [Understanding the differences between the freeCodeCamp and the browser console](#understanding-the-difference-between-the-freecodecamp-and-the-browser-console)
+- [Understanding the differences between the freeCodeCamp and the browser console](#understanding-the-differences-between-the-freecodecamp-and-the-browser-console)
 - [Use typeof to check the type of a variable](#use-typeof-to-check-the-type-of-a-variable)
 - [Catch misspelled variable and function names](#catch-misspelled-variable-and-function-names)
 - [Catch unclosed parentheses, brackets, braces and quotes](#catch-unclosed-parentheses-brackets-braces-and-quotes)
