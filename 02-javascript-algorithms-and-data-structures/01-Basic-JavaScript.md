@@ -284,3 +284,387 @@ Change the `0.0` so that quotient will equal to `2.2`.
 var quotient = 4.4 / 2.0;
 ````
 ----
+
+#### Increment a number with JavaScript
+
+---
+
+#### Decrement a number with JavaScript
+
+---
+
+#### Create decimal numbers with JavaScript
+
+---
+
+#### Multiply two decimals with JavaScript
+
+---
+
+#### Divide one decimal by another with JavaScript
+
+---
+
+#### Finding a remainder in JavaScript
+
+---
+
+#### Compound assignment with augmented addition
+
+---
+
+#### Compound assignment with augmented subtraction
+
+---
+
+#### Compound assignment with augmented multiplication
+
+---
+
+#### Compound assignment with augmented division
+
+---
+
+#### Declare string variables
+
+---
+
+#### Escaping literal quotes in strings
+
+---
+
+#### Quoting strings with single quotes
+
+---
+
+#### Escape sequences in strings
+
+---
+
+#### Concatenating strings with the plus operator
+
+---
+
+#### Constructing strings with variables
+
+---
+
+#### Appending variables to strings
+
+---
+
+#### Find the length of a string
+
+---
+
+#### Use bracket notation to find the first character in a string
+
+---
+
+#### Understand string immutability
+
+---
+
+#### Use bracket notation to find the nth character in a string
+
+---
+
+#### Use bracket notation to find the last character in a string
+
+---
+
+#### Use bracket notation to find the nth-to-last character in a string
+
+---
+
+#### Word blanks
+
+---
+
+#### Store multiple values in one variable using JavaScript arrays
+
+---
+
+#### Nest one array within another array
+
+---
+
+#### Access array data with indexes
+
+---
+
+#### Modify array data with indexes
+
+---
+
+#### Access multi-dimensional arrays with indexes
+
+---
+
+#### Manipulate arrays with push()
+
+---
+
+#### Manipulate arrays with pop()
+
+---
+
+#### Manipulate arrays with shift()
+
+---
+
+#### Manipulate arrays with unshift()
+
+---
+
+#### Shopping list
+
+---
+
+#### Write reusable JavaScript with functions
+
+---
+
+#### Passing values to functions with arguments
+
+---
+
+#### Global scope and functions
+
+---
+
+#### Local scope and functions
+
+---
+
+#### Global versus local scope in functions
+
+---
+
+#### Return a value from a function with return
+
+---
+
+#### Understanding undefined value returned from a function
+
+---
+
+#### Assignment with a returned value
+
+---
+
+#### Stand in line
+
+---
+
+#### Understanding boolean values
+
+---
+
+#### Use conditional logic with if statements
+
+---
+
+#### Comparison with the equality operator
+
+---
+
+#### Comparison with the strict equality operator
+
+---
+#### Practice comparing different values
+
+
+---
+
+#### Comparison with the inequality operator
+
+---
+
+#### Comparison with the strict inequality operator
+
+---
+
+#### Comparison with the greater than operator
+
+---
+
+#### Comparison with the greater than or equal to operator
+
+---
+
+#### Comparison with the less than operator
+
+---
+
+#### Comparison with the less than or equal to operator
+
+---
+
+#### Comparison with the logical and operator
+
+---
+
+#### Comparison with the logical or operator
+
+---
+
+#### Introducing else statements
+
+---
+
+#### Introducing else if statements
+
+---
+
+#### Logical order in if else statements
+
+---
+
+#### Chaining if else statements
+
+---
+
+#### Golf code
+
+---
+
+#### Selecting from many options with switch statements
+
+---
+
+#### Adding a default option in switch statement
+
+---
+
+#### Multiple identical options in switch statement
+
+---
+
+#### Replacing if else chains with switch
+
+---
+
+#### Returning boolean values from functions
+
+---
+
+#### Return early pattern for functions
+
+---
+
+#### Counting cards
+
+---
+
+#### Build JavaScript objects
+
+---
+
+#### Accessing object properties with dot notation
+
+---
+
+#### Accessing object properties with bracket notation
+
+---
+
+#### Accessing object properties with variables
+
+---
+
+#### Updating object properties
+
+---
+
+#### Add new properties to a JavaScript object
+
+---
+
+#### Delete properties from a JavaScript object
+
+---
+
+#### Using objects for lookups
+
+---
+
+#### Testing objects for properties
+
+---
+
+#### Manipulating complex objects
+
+---
+
+#### Accessing nested objects
+
+---
+
+#### Accessing nested arrays
+
+---
+
+#### Record collection
+
+---
+
+#### Iterate with JavaScript while loops
+
+---
+
+#### Iterate with JavaScript for loops
+
+---
+
+#### Iterate odd numbers with a for loop
+
+---
+
+#### Count backwards with a for loop
+
+---
+
+#### Iterate through an array with a for loop
+
+---
+
+#### Nesting for loops
+
+---
+
+#### Iterate with JavaScript do while loop
+
+---
+
+#### Profile lookup
+
+---
+
+#### Generate random fractions with JavaScript
+
+---
+
+#### Generate random whole numbers with JavaScript
+
+---
+
+#### Generate random whole numbers within a range
+
+---
+
+#### Use the parseInt function
+
+---
+
+#### Use the parseInt function with a radix
+
+---
+
+#### Use the conditional ternary operator
+
+---
+
+#### Use multiple conditional ternary operators
+
+---
