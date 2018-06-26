@@ -33,3 +33,125 @@
 - [Reuse patterns using capture groups](#reuse-patterns-using-capture-groups)
 - [Use capture groups to search and replace](#use-capture-groups-to-search-and-replace)
 - [Remove whitespace from start and end](#remove-whitespace-from-start-and-end)
+
+----
+
+#### Using the test method
+
+----
+
+#### Match literal strings
+
+----
+
+#### Match a literal string with different possibilities
+
+----
+
+#### Ignore case while matching
+
+----
+
+#### Extract matches
+
+----
+
+#### Find more than the first match
+
+----
+
+#### Match anything with wildcard period
+
+----
+
+#### Match single character with multiple possibilities
+
+----
+
+#### Match letters of the alphabet
+
+----
+
+#### Match single characters not specified
+
+----
+
+#### Match characters that occur one or more times
+
+----
+
+#### Find characters with lazy matching
+
+----
+
+#### Find one or more criminals in a hunt
+
+----
+
+#### Match beginning string patterns
+
+----
+
+#### Match ending string patterns
+
+----
+
+#### Match all letters and numbers
+
+----
+
+#### Match everything but letters and numbers
+
+----
+
+#### Match all numbers
+
+----
+
+#### Match all non-numbers
+
+----
+
+#### Restrict possible usernames
+
+----
+
+#### Match whitespace
+
+----
+
+#### Match non-whitespace characters
+
+----
+
+#### Specify upper and lower number of matches
+
+----
+
+#### Specify only the lower number of matches
+
+----
+
+#### Specify exact number of matches
+
+----
+
+#### Check for all or none
+
+----
+
+#### Positive and negative lookahead
+
+----
+
+#### Reuse patterns using capture groups
+
+----
+
+#### Use capture groups to search and replace
+
+----
+
+#### Remove whitespace from start and end
+
+----
