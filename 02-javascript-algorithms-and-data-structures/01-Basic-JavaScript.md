@@ -153,7 +153,7 @@ b = a;
 ````
 ----
 
-#### Initializing variable with the assignment operator
+#### Initializing variables with the assignment operator
 Define a variable `a` with `var` and initialize it to a value of `9`.
 
 ````JavaScript
