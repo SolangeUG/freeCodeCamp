@@ -123,6 +123,6 @@
 [15]: #access-property-names-with-bracket-notation
 [16]: #use-the-delete-keyword-to-remove-object-properties
 [17]: #check-if-an-object-has-a-property
-[18]: #iterate-through-the-keys-of-an-object-with-a-for-in-statement
+[18]: #iterate-through-the-keys-of-an-object-with-a-forin-statement
 [19]: #generate-an-array-of-all-object-keys-with-object.keys()
 [20]: #modify-an-array-stored-in-an-object
