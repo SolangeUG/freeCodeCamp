@@ -146,7 +146,7 @@
 [5]: #define-a-constructor-function
 [6]: #use-a-constructor-to-create-objects
 [7]: #extend-constructors-to-receive-arguments
-[8]: #verify-an-object's-constructor-with-instanceof
+[8]: #verify-an-objects-constructor-with-instanceof
 [9]: #understand-own-properties
 [10]: #use-prototype-properties-to-reduce-duplicate-code
 [11]: #iterate-over-all-properties
@@ -155,9 +155,9 @@
 [14]: #remember-to-set-the-constructor-property-when-changing-the-prototype
 [15]: #understand-where-an-objects-prototype-comes-from
 [16]: #understand-the-prototype-chain
-[17]: #use-inheritance-so-you-don-t-repeat-yourself
+[17]: #use-inheritance-so-you-dont-repeat-yourself
 [18]: #inherit-behaviors-from-a-supertype
-[19]: #set-the-child-s-prototype-to-an-instance-of-the-parent
+[19]: #set-the-childs-prototype-to-an-instance-of-the-parent
 [20]: #reset-an-inherited-constructor-property
 [21]: #add-methods-after-inheritance
 [22]: #override-inherited-methods
