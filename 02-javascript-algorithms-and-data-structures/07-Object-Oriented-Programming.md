@@ -153,7 +153,7 @@
 [12]: #understand-the-constructor-property
 [13]: #change-the-prototype-to-a-new-object
 [14]: #remember-to-set-the-constructor-property-when-changing-the-prototype
-[15]: #understand-where-an-object-s-prototype-comes-from
+[15]: #understand-where-an-objects-prototype-comes-from
 [16]: #understand-the-prototype-chain
 [17]: #use-inheritance-so-you-don-t-repeat-yourself
 [18]: #inherit-behaviors-from-a-supertype
