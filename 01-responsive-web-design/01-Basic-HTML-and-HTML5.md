@@ -2,34 +2,34 @@
 
 > HTML, or HyperText Markup Language, is a markup language used to describe the structure of a web page. It uses a special syntax or notation to organize and give information about the page to the browser. Elements usually have opening and closing tags that surround and give meaning to content. For example, there are different tag options to place around text to show whether it is a heading, a paragraph, or a list.
 
-- [Say Hello to HTML Elements](#say-hello-to-html-elements)
-- [Headline with the `h2` Element](#headling-with-the-h2-element)
-- [Inform with the Paragraph Element](#inform-with-the-paragraph-element)
-- [Uncomment HTML](#uncomment-html)
-- [Comment HTML](#comment-html)
-- [Fill in the Blank with Placeholder Text](#fill-in-the-blank-with-placeholder-text)
-- [Delete HTML](#delete-html)
-- [Introduction to HTML5 Elements](#introduction-to-html5-elements)
-- [Change the Color of Text](#change-the-color-of-text)
-- [Link to External Pages with Anchor Elements](#link-to-external-pages-with-anchor-elements)
-- [Link to Internal Sections of a Page with Anchor Elements](#link-to-internal-sections-of-a-page-with-anchor-elements)
-- [Nest an Anchor Element within a Paragraph](#nest-an-anchor-element-within-a-paragraph)
-- [Make Dead Links using the Hash Symbol](#make-dead-links-using-the-hash-symbol)
-- [Turn an Image into a Link](#turn-an-image-into-a-link)
-- [Create a Bulleted Unordered List](#create-a-bulleted-unordered-list)
-- [Create an Ordered List](#create-an-ordered-list)
-- [Create a Text Field](#create-a-text-field)
-- [Add Placeholder Text to a Text Field](#add-placeholder-text-to-a-text-field)
-- [Create a Form Element](#create-a-form-element)
-- [Add a Submit Button to a Form](#add-a-submit-button-to-a-form)
-- [Use HTML5 to Require a Field](#use-html5-to-require-a-field)
-- [Create a Set of Radio Button](#create-a-set-of-radio-button)
-- [Create a Set of Checkboxes](#create-a-set-of-checkboxes)
-- [Check Radio Buttons and Checkboxes by Default](#check-radio-buttons-and-checkboxes-by-default)
-- [Nest Many Elements within a Single Div Element](#nest-many-elements-within-a-single-div-element)
-- [Set the ID of an Element](#set-the-id-of-an-element)
-- [Declare the Doctype of an HTML Document](#declare-the-doctype-of-an-html-document)
-- [Define the Head and Body of an HTML Document](#define-the-head-and-body-of-an-html-document)
+- [Say Hello to HTML Elements][1]
+- [Headline with the `h2` Element][2]
+- [Inform with the Paragraph Element][3]
+- [Uncomment HTML][4]
+- [Comment HTML][5]
+- [Fill in the Blank with Placeholder Text][6]
+- [Delete HTML][7]
+- [Introduction to HTML5 Elements][8]
+- [Change the Color of Text][9]
+- [Link to External Pages with Anchor Elements][10]
+- [Link to Internal Sections of a Page with Anchor Elements][11]
+- [Nest an Anchor Element within a Paragraph][12]
+- [Make Dead Links using the Hash Symbol][13]
+- [Turn an Image into a Link][14]
+- [Create a Bulleted Unordered List][15]
+- [Create an Ordered List][16]
+- [Create a Text Field][17]
+- [Add Placeholder Text to a Text Field][18]
+- [Create a Form Element][19]
+- [Add a Submit Button to a Form][20]
+- [Use HTML5 to Require a Field][21]
+- [Create a Set of Radio Button][22]
+- [Create a Set of Checkboxes][23]
+- [Check Radio Buttons and Checkboxes by Default][24]
+- [Nest Many Elements within a Single Div Element][25]
+- [Set the ID of an Element][26]
+- [Declare the Doctype of an HTML Document][27]
+- [Define the Head and Body of an HTML Document][28]
 
 ----
 
@@ -1024,3 +1024,33 @@ Edit the markup so there's a `head` and a `body`. The `head` element should only
   </body>
 </html>
 ````
+
+
+[1]: #say-hello-to-html-elements
+[2]: #headling-with-the-h2-element
+[3]: #inform-with-the-paragraph-element
+[4]: #uncomment-html
+[5]: #comment-html
+[6]: #fill-in-the-blank-with-placeholder-text
+[7]: #delete-html
+[8]: #introduction-to-html5-elements
+[9]: #change-the-color-of-text
+[10]: #link-to-external-pages-with-anchor-elements
+[11]: #link-to-internal-sections-of-a-page-with-anchor-elements
+[12]: #nest-an-anchor-element-within-a-paragraph
+[13]: #make-dead-links-using-the-hash-symbol
+[14]: #turn-an-image-into-a-link
+[15]: #create-a-bulleted-unordered-list
+[16]: #create-an-ordered-list
+[17]: #create-a-text-field
+[18]: #add-placeholder-text-to-a-text-field
+[19]: #create-a-form-element
+[20]: #add-a-submit-button-to-a-form
+[21]: #use-html5-to-require-a-field
+[22]: #create-a-set-of-radio-button
+[23]: #create-a-set-of-checkboxes
+[24]: #check-radio-buttons-and-checkboxes-by-default
+[25]: #nest-many-elements-within-a-single-div-element
+[26]: #set-the-id-of-an-element
+[27]: #declare-the-doctype-of-an-html-document
+[28]: #define-the-head-and-body-of-an-html-document
