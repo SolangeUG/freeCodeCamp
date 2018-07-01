@@ -4,48 +4,48 @@
 
 > CSS has been adopted by all major browsers and allows you to control: color, fonts, positioning, spacing, sizing, decorations, transitions.
 
-- [Use CSS Selectors to Style Elements](#use-css-selectors-to-style-elements)
-- [Use a CSS class to Style Elements](#use-a-css-class-to-style-elements)
-- [Use a CSS class to Style Elements](#use-a-css-class-to-style-elements)
-- [Change the Font Size of an Element](#change-the-font-size-of-an-element)
-- [Set the Font Family of an Element](#set-the-font-family-of-an-element)
-- [Import a Google Font](#import-a-google-font)
-- [Specify How Fonts Should Degrade](#specify-how-fonts-should-degrade)
-- [Add Images to your Website](#add-images-to-your-website)
-- [Size your Images](#size-your-images)
-- [Add Borders Around your Elements](#add-borders-around-your-elements)
-- [Add Rounded Corners with a Border Radius](#add-rounded-corners-with-a-border-radius)
-- [Make Circular Images with a Border Radius](#make-circular-images-with-a-border-radius)
-- [Give a Background Color to a Div Element](#give-a-background-color-to-a-div-element)
-- [Use an ID Attribute to Style an Element](#use-an-id-attribute-to-style-an-element)
-- [Adjusting the Padding of an Element](#adjusting-the-padding-of-an-element)
-- [Adjust the Margin of an Element](#adjust-the-margin-of-an-element)
-- [Add a Negative Margin to an Element](#add-a-negative-margin-to-an-element)
-- [Add Different Padding to Each Side of an Element](#add-different-padding-to-each-side-of-an-element)
-- [Add Different Margins to Each Side of an Element](#add-different-margins-to-each-side-of-an-element)
-- [Use Clockwise Notation to Specify the Padding of an Element](#use-clockwise-notation-to-specify-the-padding-of-an-element)
-- [Use Clockwise Notation to Specify the Margin of an Element](#use-clockwise-notation-to-specify-the-margin-of-an-element)
-- [Use Attribute Selectors to Style Elements](#use-attribute-selectors-to-style-elements)
-- [Understand Absolute versus Relative Units](#understand-absolute-versus-relative-units)
-- [Style the HTML Body Element](#style-the-html-body-element)
-- [Inherit Styles from the Body Element](#inherit-styles-from-the-body-element)
-- [Prioritize One Style Over Another](#prioritize-one-style-over-another)
-- [Override Styles in Subsequent CSS](#override-styles-in-subsequent-css)
-- [Override Class Declarations by Styling ID Attributes](#override-class-declarations-by-styling-id-attributes)
-- [Override Class Declarations with Inline Styles](#override-class-declarations-with-inline-styles)
-- [Override All Other Styles by using Important](#override-all-other-styles-by-using-important)
-- [Use Hex Code for Specific Colors](#use-hex-code-for-specific-colors)
-- [Use Hex Code to Mix Colors](#use-hex-code-to_mix_colors)
-- [Use Abbreviated Hex Code](#use-abbreviated-hex-code)
-- [Use RGB values to Color Elements](#use-rgb-values-to-color-elements)
-- [Use RGB to Mix Colors](#use-rgb-to-mix-colors)
-- [Use CSS Variables to change several elements at once](#use-css-variables-to-change-several-elements-at-once)
-- [Create a Custom CSS Variable](#create-a-custom-css-variable)
-- [Use a Custom CSS Variable](#use-a-custom-css-variable)
-- [Attach a Fallback value to a CSS Variable](#attach-a-fallback-value-to-a-css-variable)
-- [Cascading CSS Variables](#cascading-css-variables)
-- [Change a variable for a specific area](#change-a-variable-for-a-specific-area)
-- [Use a media query to change a variable](#use-a-media-query-to-change-a-variable)
+- [Use CSS Selectors to Style Elements][1]
+- [Use a CSS class to Style Elements][2]
+- [Use a CSS class to Style Elements][3]
+- [Change the Font Size of an Element][4]
+- [Set the Font Family of an Element][5]
+- [Import a Google Font][6]
+- [Specify How Fonts Should Degrade][7]
+- [Add Images to your Website][8]
+- [Size your Images][9]
+- [Add Borders Around your Elements][10]
+- [Add Rounded Corners with a Border Radius][11]
+- [Make Circular Images with a Border Radius][12]
+- [Give a Background Color to a Div Element][13]
+- [Use an ID Attribute to Style an Element][14]
+- [Adjusting the Padding of an Element][15]
+- [Adjust the Margin of an Element][16]
+- [Add a Negative Margin to an Element][17]
+- [Add Different Padding to Each Side of an Element][18]
+- [Add Different Margins to Each Side of an Element][19]
+- [Use Clockwise Notation to Specify the Padding of an Element][20]
+- [Use Clockwise Notation to Specify the Margin of an Element][21]
+- [Use Attribute Selectors to Style Elements][22]
+- [Understand Absolute versus Relative Units][23]
+- [Style the HTML Body Element][24]
+- [Inherit Styles from the Body Element][25]
+- [Prioritize One Style Over Another][26]
+- [Override Styles in Subsequent CSS][27]
+- [Override Class Declarations by Styling ID Attributes][28]
+- [Override Class Declarations with Inline Styles][29]
+- [Override All Other Styles by using Important[][30]
+- [Use Hex Code for Specific Colors][31]
+- [Use Hex Code to Mix Colors][32]
+- [Use Abbreviated Hex Code][33]
+- [Use RGB values to Color Elements][34]
+- [Use RGB to Mix Colors][35]
+- [Use CSS Variables to change several elements at once][36]
+- [Create a Custom CSS Variable][37]
+- [Use a Custom CSS Variable][38]
+- [Attach a Fallback value to a CSS Variable][39]
+- [Cascading CSS Variables[][40]
+- [Change a variable for a specific area][41]
+- [Use a media query to change a variable][42]
 
 ----
 
