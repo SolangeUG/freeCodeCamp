@@ -2693,3 +2693,47 @@ In the `:root` selector of the media query, change it so --penguin-size is redef
 </div>
 ````
 ----
+
+
+[1]: #use-css-selectors-to-style-elements
+[2]: #use-a-css-class-to-style-elements
+[3]: #use-a-css-class-to-style-elements
+[4]: #change-the-font-size-of-an-element
+[5]: #set-the-font-family-of-an-element
+[6]: #import-a-google-font
+[7]: #specify-how-fonts-should-degrade
+[8]: #add-images-to-your-website
+[9]: #size-your-images
+[10]: #add-borders-around-your-elements
+[11]: #add-rounded-corners-with-a-border-radius
+[12]: #make-circular-images-with-a-border-radius
+[13]: #give-a-background-color-to-a-div-element
+[14]: #use-an-id-attribute-to-style-an-element
+[15]: #adjusting-the-padding-of-an-element
+[16]: #adjust-the-margin-of-an-element
+[17]: #add-a-negative-margin-to-an-element
+[18]: #add-different-padding-to-each-side-of-an-element
+[19]: #add-different-margins-to-each-side-of-an-element
+[20]: #use-clockwise-notation-to-specify-the-padding-of-an-element
+[21]: #use-clockwise-notation-to-specify-the-margin-of-an-element
+[22]: #use-attribute-selectors-to-style-elements
+[23]: #understand-absolute-versus-relative-units
+[24]: #style-the-html-body-element
+[25]: #inherit-styles-from-the-body-element
+[26]: #prioritize-one-style-over-another
+[27]: #override-styles-in-subsequent-css
+[28]: #override-class-declarations-by-styling-id-attributes
+[29]: #override-class-declarations-with-inline-styles
+[30]: #override-all-other-styles-by-using-important
+[31]: #use-hex-code-for-specific-colors
+[32]: #use-hex-code-to_mix_colors
+[33]: #use-abbreviated-hex-code
+[34]: #use-rgb-values-to-color-elements
+[35]: #use-rgb-to-mix-colors
+[36]: #use-css-variables-to-change-several-elements-at-once
+[37]: #create-a-custom-css-variable
+[38]: #use-a-custom-css-variable
+[39]: #attach-a-fallback-value-to-a-css-variable
+[40]: #cascading-css-variables
+[41]: #change-a-variable-for-a-specific-area
+[42]: #use-a-media-query-to-change-a-variable
